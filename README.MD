@@ -1,5 +1,9 @@
 # 🎙️ Podcast: Métricas que Falam
 
+<p align="center">
+  <img src="./assets/capa.png" alt="Capa do Podcast Métricas que Falam" width="400">
+</p>
+
 Este repositório foi desenvolvido como parte de um desafio prático na DIO (Digital Innovation One) com o objetivo de exercitar conceitos de Engenharia de Prompts e Inteligência Artificial Generativa aplicados à criação de conteúdo em áudio.
 
 O projeto consiste no desenvolvimento do episódio piloto de um podcast focado no universo de Business Intelligence e Dados, trazendo uma perspectiva estratégica sobre a coexistência entre profissionais da área e novas tecnologias de IA.
